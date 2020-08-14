@@ -7,7 +7,7 @@ in details:internal parasitic capacities charged and discharged each clock cycle
 
 ## Goal:
 
-Manage the power consumption of the ADUc841 by controling the frequency of the internal clock via the keyboard.
+Manage the power consumption of the ADuC841 by controling the frequency of the internal clock via the keyboard.
 
 ## Solution:
 
