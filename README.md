@@ -3,6 +3,7 @@
 ## Introduction: 
 
 Power consumption of the ADuC841 dependes on its internal clock frequency.
+
 in details:internal parasitic capacities charged and discharged each clock cycle - power  wich can be saved.
 
 ## Goal:
